@@ -1,5 +1,7 @@
 class Anagram
   
+  att
+  
   def initialize(word)
     @word = word
   end
